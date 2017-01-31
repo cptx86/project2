@@ -1,4 +1,6 @@
 #    ubuntu base image for new priject2 
+#	test Automated Build with Repository Links
+
 FROM ubuntu:14.04
 
 MAINTAINER <Author name and email address>

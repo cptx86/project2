@@ -1,9 +1,10 @@
-#    ubuntu base image
+#    ubuntu base image for priject2
 FROM ubuntu:14.04
 
 MAINTAINER <Author name and email address>
 
 RUN apt-get update
+
 
 # Create a time and date stamp of this build
 RUN mkdir -p /version; \
